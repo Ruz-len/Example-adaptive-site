@@ -1,2 +1,2 @@
-# Example-adaptive-site
+# example-adaptive-site
 Site for example
